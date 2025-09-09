@@ -1,7 +1,4 @@
 
-/* Hide Streamlit Branding */
-footer {visibility: hidden;}
-header {visibility: hidden;}
 
 /* Adjust Padding */
 .st-emotion-cache-16txtl3 {
@@ -11,3 +8,4 @@ header {visibility: hidden;}
 .st-emotion-cache-z5fcl4 {
     padding: 2rem 1rem 10rem;
 }
+
