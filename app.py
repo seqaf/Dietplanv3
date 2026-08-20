@@ -11,7 +11,7 @@ import google.generativeai as genai
 from io import StringIO
 
 # configure API key
-genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
+genai.configure(api_key="AIzaSyAeRdEupPNUuo5Yz404OzcQN3dP6mRcmjw")
 
 
 model = genai.GenerativeModel("gemini-2.5-flash")  # atau gemini-2.5-pro
