@@ -48,4 +48,4 @@ person_info = {
 
 ANIMATION = "https://lottie.host/fba69b13-ee90-4916-8be1-de18dfaa8fb0/Ogcugr0aY2.json"
 
-YOUR_API_KEY = "<AIzaSyAeRdEupPNUuo5Yz404OzcQN3dP6mRcmjw>"
+GOOGLE_API_KEY = "<AIzaSyAeRdEupPNUuo5Yz404OzcQN3dP6mRcmjw>"
